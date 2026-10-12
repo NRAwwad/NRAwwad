@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hey, I'm Awwader
 
-<!--
-**NRAwwad/NRAwwad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build at the intersection of **cybersecurity** and **applied AI** — with a particular interest in Arabic NLP, machine learning, and secure systems.
 
-Here are some ideas to get you started:
+## What I work on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Practical cybersecurity tools and learning experiences
+- NLP and machine-learning projects across Arabic and English
+- Python projects that turn ideas into useful tools
+
+## Featured work
+
+- [Arabic stylometry & translation](https://github.com/NRAwwad/stylometric-english-arabic-translation)
+- [Cross-lingual analysis of political framing](https://github.com/NRAwwad/-A-Cross-Lingual-Analysis-of-Political-Framing-in-English-and-Arabic)
+- [Pet image classification](https://github.com/NRAwwad/Pet_Classification_)
+- [Port scanner](https://github.com/NRAwwad/port-scanner)
+
+## Interests
+
+Cybersecurity · Machine Learning · Arabic NLP · Python
+
+Always learning, building, and improving.
