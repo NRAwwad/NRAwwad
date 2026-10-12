@@ -1,22 +1,22 @@
 # Hey, I'm Awwader
 
-I build at the intersection of **cybersecurity** and **applied AI** — with a particular interest in Arabic NLP, machine learning, and secure systems.
+I enjoy building cybersecurity tools and AI projects. I am especially interested in Arabic NLP, machine learning, and making systems more secure.
 
-## What I work on
+## Things I work on
 
-- Practical cybersecurity tools and learning experiences
-- NLP and machine-learning projects across Arabic and English
-- Python projects that turn ideas into useful tools
+- Cybersecurity tools and learning projects
+- NLP and machine-learning projects in Arabic and English
+- Python projects that solve practical problems
 
-## Featured work
+## Projects I've worked on
 
-- [Arabic stylometry & translation](https://github.com/NRAwwad/stylometric-english-arabic-translation)
+- [Arabic stylometry and translation](https://github.com/NRAwwad/stylometric-english-arabic-translation)
 - [Cross-lingual analysis of political framing](https://github.com/NRAwwad/-A-Cross-Lingual-Analysis-of-Political-Framing-in-English-and-Arabic)
 - [Pet image classification](https://github.com/NRAwwad/Pet_Classification_)
 - [Port scanner](https://github.com/NRAwwad/port-scanner)
 
-## Interests
+## Interested in
 
 Cybersecurity · Machine Learning · Arabic NLP · Python
 
-Always learning, building, and improving.
+Still learning and building every day.
